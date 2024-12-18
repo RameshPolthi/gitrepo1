@@ -23,7 +23,7 @@ public class Main
 		}
 	}
 } 
- 2.median of given mergedarray
+ 2.median of given mergedarray//nothing just editing
 import java.util.Scanner;
 import java.util.Arrays;
 
