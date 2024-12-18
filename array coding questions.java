@@ -23,8 +23,8 @@ public class Main
 		}
 	}
 } 
- 2.median of given mergedarray//adding a line
-import java.util.Scanner;
+ 2.median of given mergedarray
+import java.util.Scanner;//hi
 import java.util.Arrays;
 
 public class Main {
